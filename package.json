@@ -26,6 +26,6 @@
     "url": "https://github.com/dazoe/ed25519.git"
   },
   "devDependencies": {
-    "mocha": "^2.3.2"
+    "mocha": "^5.2.0"
   }
 }
